@@ -17,8 +17,8 @@ class About extends React.Component {
         {
           id: "ReactJS_skill",
           content: "ReactJS",
-          porcentage: "80%",
-          value: "80"
+          porcentage: "65",
+          value: "65"
         },
         {
           id: "Python_skill",
@@ -29,25 +29,25 @@ class About extends React.Component {
         {
           id: "VanillaJS_skill",
           content: "VanillaJS",
-          porcentage: "85%",
-          value: "85"
+          porcentage: "70%",
+          value: "70"
         },
       ],
       about_me: [
         {
           id: "first-p-about",
           content:
-            "Lorem ipsum pariatur consectetur laboris occaecat nulla aliqua irure ad deserunt duis. Eiusmod nulla cupidatat labore sint sit aute dolore irure nostrud ut incididunt. Anim laborum reprehenderit labore magna ut dolore quis irure. Labore ea duis deserunt ullamco irure fugiat deserunt ut nisi ea minim proident. Nisi consectetur do non magna duis aliqua minim minim veniam. In occaecat minim qui consequat elit mollit consectetur non id tempor. Amet adipisicing occaecat tempor culpa quis est duis."
+            "I am a former UW Web Developing And Coding student whose looking to expand my carrer path and skills by obtaining a job that takes on web developing, I hope this portolio will give employers the interest to contact me about my work."
         },
         {
           id: "second-p-about",
           content:
-            "Lorem ipsum pariatur consectetur laboris occaecat nulla aliqua irure ad deserunt duis. Eiusmod nulla cupidatat labore sint sit aute dolore irure nostrud ut incididunt. Anim laborum reprehenderit labore magna ut dolore quis irure. Labore ea duis deserunt ullamco irure fugiat deserunt ut nisi ea minim proident. Nisi consectetur do non magna duis aliqua minim minim veniam. In occaecat minim qui consequat elit mollit consectetur non id tempor. Amet adipisicing occaecat tempor culpa quis est duis."
+            "Outside of Coding, I work a full time warehouse job. I really enjoy music, anime shows, exploring the outdoors, spending time with family and friends, and live streaming on twitch."
         },
         {
           id: "third-p-about",
           content:
-            "Lorem ipsum pariatur consectetur laboris occaecat nulla aliqua irure ad deserunt duis. Eiusmod nulla cupidatat labore sint sit aute dolore irure nostrud ut incididunt. Anim laborum reprehenderit labore magna ut dolore quis irure. Labore ea duis deserunt ullamco irure fugiat deserunt ut nisi ea minim proident. Nisi consectetur do non magna duis aliqua minim minim veniam. In occaecat minim qui consequat elit mollit consectetur non id tempor. Amet adipisicing occaecat tempor culpa quis est duis."
+            "I love taking on new challenges and seeing how far I can excel when it comes to facing new obstacles, This Coding progam I attended may have been difficult but I was able to learn alot and obtain new skills."
         }
       ]
     };
